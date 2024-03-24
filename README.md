@@ -10,3 +10,6 @@
 ## Conversion
 ### ![Conversion](https://github.com/FrancisTanglao/UltrasonicSensorTheremin/blob/main/WeMos%20D1%20R2%20Pinout%20Conversion.png)
 ### I ran into a lot of problems with this project because I didn't realize that the pinouts for Arduino were for their boards and not cross-compatible with others
+## Link
+### Here's a link for the theremin!
+### https://youtu.be/TCNKSUdGqMM
