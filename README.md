@@ -12,4 +12,4 @@
 ### I ran into a lot of problems with this project because I didn't realize that the pinouts for Arduino were for their boards and not cross-compatible with others
 ## Link
 ### Here's a link for the theremin!
-### https://youtu.be/TCNKSUdGqMM
+### https://youtu.be/V44Acwxp99A
