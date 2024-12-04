@@ -1,8 +1,8 @@
 # Ultrasonic Sensor Theremin
 ## Motivation
-- ### I designed this theremin for an assignment for my History of Technology in Music course at Cal Poly Pomona
-### I was gifted the WeMos D1 R2 microcontroller by my friend who pushed me to apply the skills I've learned at school
-### I decided to program my theremin in Arduino, because I've always wanted to learn how to use the IDE since high school
+- ### I created the theremin for a final assignment in my History of Technology in Music course at Cal Poly Pomona
+- ### I was gifted the WeMos D1 R2 microcontroller by a friend who encouraged me to apply the skills I learned in school to real-life applications, bridging theoretical knowledge with practical experiences
+- ### I chose to program my theremin in Arduino, because I've always wanted to learn how to use the IDE since I was in high school
 ## Pinout Datasheet
 ### ![Conversion](https://github.com/FrancisTanglao/UltrasonicSensorTheremin/blob/main/WeMos%20D1%20R2%20Pinout%20Conversion.png)
 ## Pinout Schematic
