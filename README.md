@@ -15,4 +15,4 @@
 ### ![Breadboard](https://github.com/FrancisTanglao/UltrasonicSensorTheremin/blob/main/Ultrasonic%20Sensor%20Theremin%20Breadboard.png)
 ### You can find the code for the theremin [*here*](https://github.com/FrancisTanglao/UltrasonicSensorTheremin/blob/main/WeMosUltrasonicSensorTheremin.ino)
 ## Video Demonstration
-### Here's the link to a [*video demonstration of my theremin*](https://youtu.be/V44Acwxp99A)
+### Here's the link to a [*video demonstration*](https://youtu.be/V44Acwxp99A) of my theremin
