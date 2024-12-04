@@ -5,6 +5,8 @@
 - ### I chose to program my theremin in Arduino, because I've always wanted to learn how to use the IDE since I was in high school
 ## Pin Mapping the WeMos D1 R2
 ### ![Mapping](https://github.com/fctanglao/UltrasonicSensorTheremin/blob/main/WeMos%20D1%20R2%20Pin%20Mapping.png)
+- ### The WeMos D1 R2 pin mapping differs from standard Arduino boards like the Uno
+- ### The WeMos D1 R2 uses the GPIO pin numbers of the ESP8266 chip, but the board labels some pins to match Arduino's style
 ## Pinout Schematic
 ### ![Schematic](https://github.com/FrancisTanglao/UltrasonicSensorTheremin/blob/main/Ultrasonic%20Sensor%20Theremin%20Schematic.png)
 ## Breadboard Implementation
