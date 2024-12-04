@@ -6,7 +6,7 @@
 ### ![Schematic](https://github.com/FrancisTanglao/UltrasonicSensorTheremin/blob/main/Ultrasonic%20Sensor%20Theremin%20Schematic.png)
 ## Breadboard Implementation
 ### ![Breadboard](https://github.com/FrancisTanglao/UltrasonicSensorTheremin/blob/main/Ultrasonic%20Sensor%20Theremin%20Breadboard.png)
-### You can find the code the the theremin [*here*](https://github.com/FrancisTanglao/UltrasonicSensorTheremin/blob/main/WeMosUltrasonicSensorTheremin.ino)
+### You can find the code for the theremin [*here*](https://github.com/FrancisTanglao/UltrasonicSensorTheremin/blob/main/WeMosUltrasonicSensorTheremin.ino)
 ## Pinout Datasheet
 ### ![Conversion](https://github.com/FrancisTanglao/UltrasonicSensorTheremin/blob/main/WeMos%20D1%20R2%20Pinout%20Conversion.png)
 ## Link
